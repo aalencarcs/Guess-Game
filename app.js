@@ -22,7 +22,7 @@ check.addEventListener("click", function () {
 
 again.addEventListener("click", function() {
     
-    number.textContent = "?";
+    //number.textContent = "?";
     location.reload();
 
 })
